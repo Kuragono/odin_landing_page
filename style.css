@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 48px;
+    display: flex;
+    flex-direction: row;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.images {
+    display: flex;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.action {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    margin-top: auto;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+h1 {
+    margin-top: 0px;
+}
